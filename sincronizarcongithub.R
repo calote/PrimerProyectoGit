@@ -4,3 +4,4 @@ gitcreds::gitcreds_set()
 
 # Paso 2: conectar con Github
 usethis::use_github()
+# seleccioné: "1: For sure"
